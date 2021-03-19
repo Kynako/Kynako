@@ -7,7 +7,7 @@
 - [CetusWidget](https://github.com/Kynako/CetusWidget)
 - [QiitaWidget](https://github.com/Kynako/QiitaWidget)
 
-## LINKs
+# LINKs
 - Twitter: [@K_Melodyline](https://twitter.com/k_melodyline)
 - Qiita: [@Kynako](https://qiita.com/Kynako)
 - GitHub-Pages: [kynako.github.io](https://kynako.github.io)
